@@ -1,0 +1,134 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "imgUrl": "./breakfast.png",
+      "foodName": "Egg",
+      "foodInfo": "Fresh eggs, toasted bread, seasonal fruits, and hot coffee prepared to give you the perfect start to your day.",
+      "price": "10"
+    },
+    {
+      "id": 2,
+      "imgUrl": "./breakfast2.png",
+      "foodName": "fresh",
+      "foodInfo": "Fresh eggs, crispy toast, seasonal fruits, and aromatic coffee to start your morning right.",
+      "price": "14"
+    },
+    {
+      "id": 3,
+      "imgUrl": "./breakfast3.png",
+      "foodName": "Egg",
+      "foodInfo": "Fresh eggs, toasted bread, seasonal fruits, and hot coffee prepared to give you the perfect start to your day.",
+      "price": "10"
+    },
+    {
+      "id": 4,
+      "imgUrl": "./breakfast4.png",
+      "foodName": "fresh",
+      "foodInfo": "Fresh eggs, crispy toast, seasonal fruits, and aromatic coffee to start your morning right.",
+      "price": "14"
+    },
+    {
+      "id": 5,
+      "imgUrl": "./breakfast5.png",
+      "foodName": "Egg",
+      "foodInfo": "Fresh eggs, toasted bread, seasonal fruits, and hot coffee prepared to give you the perfect start to your day.",
+      "price": "10"
+    },
+    {
+      "id": 6,
+      "imgUrl": "./breakfast6.png",
+      "foodName": "fresh",
+      "foodInfo": "Fresh eggs, crispy toast, seasonal fruits, and aromatic coffee to start your morning right.",
+      "price": "14"
+    }
+  ],
+  "dinner": [
+    {
+      "id": 1,
+      "imgUrl": "./kabab1.png",
+      "foodName": "Kabab",
+      "price": "20",
+      "foodInfo": "Premium steaks, seafood specialties, and chef-crafted dishes served with rich flavors and elegant presentation."
+    },
+    {
+      "id": 2,
+      "imgUrl": "./sandwich1.png",
+      "foodName": "Sandwich",
+      "price": "18",
+      "foodInfo": "Signature dishes, premium ingredients, and rich flavors crafted for an unforgettable evening meal."
+    },
+    {
+      "id": 3,
+      "imgUrl": "./kabab2.png",
+      "foodName": "Kabab",
+      "price": "20",
+      "foodInfo": "Premium steaks, seafood specialties, and chef-crafted dishes served with rich flavors and elegant presentation."
+    },
+    {
+      "id": 4,
+      "imgUrl": "./pizza1.png",
+      "foodName": "Pizza",
+      "price": "18",
+      "foodInfo": "Signature dishes, premium ingredients, and rich flavors crafted for an unforgettable evening meal."
+    },
+    {
+      "id": 5,
+      "imgUrl": "./sandwich2.png",
+      "foodName": "Sandwich",
+      "price": "17",
+      "foodInfo": "Premium steaks, seafood specialties, and chef-crafted dishes served with rich flavors and elegant presentation."
+    },
+    {
+      "id": 2,
+      "imgUrl": "./pizza2.png",
+      "foodName": "Pizza",
+      "price": "18",
+      "foodInfo": "Signature dishes, premium ingredients, and rich flavors crafted for an unforgettable evening meal."
+    }
+  ],
+  "lanch": [
+    {
+      "id": 1,
+      "imgUrl": "./launch1.png",
+      "foodName": "Salad",
+      "price": "16",
+      "foodInfo": "Tender grilled meats, fresh vegetables, and delicious recipes prepared with quality ingredients."
+    },
+    {
+      "id": 2,
+      "imgUrl": "./launch3.png",
+      "foodName": "Meat",
+      "price": "20",
+      "foodInfo": "Grilled meats, fresh salads, and flavorful side dishes carefully prepared for a satisfying midday meal."
+    },
+    {
+      "id": 3,
+      "imgUrl": "./launch1.png",
+      "foodName": "Salad",
+      "price": "16",
+      "foodInfo": "Tender grilled meats, fresh vegetables, and delicious recipes prepared with quality ingredients."
+    },
+    {
+      "id": 4,
+      "imgUrl": "./launch3.png",
+      "foodName": "Meat",
+      "price": "20",
+      "foodInfo": "Grilled meats, fresh salads, and flavorful side dishes carefully prepared for a satisfying midday meal."
+    },
+    {
+      "id": 5,
+      "imgUrl": "./launch1.png",
+      "foodName": "Salad",
+      "price": "16",
+      "foodInfo": "Tender grilled meats, fresh vegetables, and delicious recipes prepared with quality ingredients."
+    },
+    {
+      "id": 6,
+      "imgUrl": "./launch3.png",
+      "foodName": "Meat",
+      "price": "20",
+      "foodInfo": "Grilled meats, fresh salads, and flavorful side dishes carefully prepared for a satisfying midday meal."
+    }
+  ]
+}
